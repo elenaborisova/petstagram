@@ -1,4 +1,4 @@
-# petstagram
-crud university project
+# Petstagram
+CRUD university project
 
 Accessible online here: https://petstagram-u3ble4g6xq-ew.a.run.app/
