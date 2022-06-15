@@ -24,7 +24,7 @@ SECRET_KEY = '))_=u3ldu^^k-zo53p_=7gg0d2==rvi8)+=-vp$7fo@utgm#@p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['petstagram-u3ble4g6xq-ew.a.run.app']
 
 # Application definition
 
